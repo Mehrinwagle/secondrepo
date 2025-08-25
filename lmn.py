@@ -4,11 +4,12 @@ class Math:
     def two(self,second):
         self.second=second
     def add(self):
-        print(self.first+self.second)
+        print(enter+ent)
 
 e=Math()
-e.one(23)
-e.two(56)
+enter=int(input("enter first number: "))
+ent=int(input("enter second number: "))
+
 e.add()
 
     
