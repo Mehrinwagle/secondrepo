@@ -13,8 +13,8 @@ class Mymath:
         print("The result is : ",self.d)
 
 p=Mymath()
-p.first_value(8)
+p.first_value(8.3)
 p.second_value(9)
-p.add(int)
+p.add(float)
 p.result()
 
