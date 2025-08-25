@@ -9,7 +9,6 @@ class Math:
 e=Math()
 enter=int(input("enter first number: "))
 ent=int(input("enter second number: "))
-
 e.add()
 
     
